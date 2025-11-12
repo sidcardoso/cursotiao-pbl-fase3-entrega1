@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# SQL files
+*.sql text eol=lf
+
+# CSV files
+*.csv text eol=lf
+
+# Markdown files
+*.md text eol=lf

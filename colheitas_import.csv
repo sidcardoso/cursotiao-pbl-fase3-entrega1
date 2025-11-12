@@ -1,0 +1,101 @@
+﻿ID_COLHEITA;FAZENDA;AREA_HECTARES;TIPO_CANA;PRODUTIVIDADE;PERCENTUAL_PERDA;PRECO_TONELADA;COLHEITADEIRA;VELOCIDADE;CONDICAO_CLIMA;DATA_COLHEITA;TONELADAS_COLHIDAS;TONELADAS_PERDIDAS;PERDA_FINANCEIRA;EFICIENCIA;CLASSIFICACAO;OBSERVACOES
+1;Fazenda Santa Maria;28.84;CTC20;86.73;11.36;126.09;Case IH A4000;3.89;Nublado;20/07/2025;2217.15;284.15;35828.08;88.64;Regular;Recomenda-se manutenção da colheitadeira
+2;Fazenda Campo Verde;15.46;CTC4;71.37;3.71;111.41;New Holland TC5070;6.98;Ensolarado;15/09/2025;1062.44;40.94;4560.61;96.29;Ótima;Condições ideais de colheita
+3;Fazenda Santo Antônio;48.33;IAC91-1099;79.06;2.58;135.73;John Deere CH570;6.29;Ensolarado;21/09/2025;3722.39;98.58;13380.4;97.42;Ótima;Condições ideais de colheita
+4;Fazenda Campo Verde;45.61;CTC20;90.35;5.44;125.83;John Deere 3520;6.19;Úmido;16/07/2025;3896.69;224.17;28207.94;94.56;Boa;Bom aproveitamento da área
+5;Fazenda São José;86.25;RB92579;86.92;11.81;112.57;John Deere CH570;5.76;Garoa Leve;07/10/2025;6611.47;885.38;99667.0;88.19;Regular;Recomenda-se manutenção da colheitadeira
+6;Fazenda São João;129.97;RB867515;79.15;17.05;126.92;Case IH A8800;4.19;Seco;05/11/2025;8533.17;1753.95;222611.96;82.95;Crítica;Colheitadeira requer manutenção urgente
+7;Fazenda União;147.81;IACSP95-5000;82.97;15.23;137.32;John Deere 3520;4.84;Parcialmente Nublado;11/10/2025;10396.02;1867.78;256483.01;84.77;Crítica;Condições climáticas adversas
+8;Fazenda Santa Maria;118.27;RB966928;83.42;11.86;115.88;Case IH A4000;7.25;Parcialmente Nublado;26/10/2025;8695.97;1170.12;135593.21;88.14;Regular;Ajustes necessários na velocidade
+9;Fazenda São José;89.99;CTC20;73.17;17.41;111.34;New Holland CH7.70;3.93;Ensolarado;21/08/2025;5438.19;1146.37;127637.21;82.59;Crítica;Colheitadeira requer manutenção urgente
+10;Fazenda São José;61.84;CTC9;91.59;10.74;128.52;New Holland TC5070;6.44;Nublado;11/08/2025;5055.62;608.31;78179.44;89.26;Regular;Recomenda-se manutenção da colheitadeira
+11;Fazenda Nova Esperança;66.51;RB92579;66.74;14.66;135.78;Santal Tandem;4.17;Seco;31/08/2025;3788.14;650.74;88357.4;85.34;Alta;Perdas significativas detectadas
+12;Fazenda União;28.87;SP81-3250;83.62;12.42;124.94;DMB G8000;6.24;Garoa Leve;22/09/2025;2114.28;299.83;37461.06;87.58;Alta;Urgente ajuste nos parâmetros
+13;Fazenda São José;149.93;CTC9;61.38;9.22;119.67;John Deere 3520;4.17;Garoa Leve;24/07/2025;8354.21;848.49;101538.71;90.78;Regular;Recomenda-se manutenção da colheitadeira
+14;Fazenda Boa Vista;103.0;CTC20;69.43;11.84;116.73;New Holland CH7.70;6.87;Parcialmente Nublado;25/08/2025;6304.58;846.71;98836.78;88.16;Regular;Perdas acima do esperado, necessita atenção
+15;Fazenda Campo Verde;15.73;RB92579;72.72;12.06;114.49;New Holland CH7.70;4.6;Parcialmente Nublado;17/09/2025;1005.93;137.95;15794.19;87.94;Alta;Necessário revisar calibração da colheitadeira
+16;Fazenda Nova Esperança;106.26;RB966928;78.78;4.33;124.94;John Deere 3520;4.88;Nublado;04/11/2025;8008.69;362.47;45287.17;95.67;Ótima;Operação dentro dos padrões ideais
+17;Fazenda Vista Alegre;60.87;RB92579;62.9;13.87;128.13;Case IH A8800;4.1;Úmido;10/09/2025;3297.68;531.04;68042.65;86.13;Alta;Necessário revisar calibração da colheitadeira
+18;Fazenda Boa Vista;142.24;SP81-3250;86.42;7.46;138.97;DMB G8000;4.05;Úmido;09/08/2025;11375.37;917.01;127437.1;92.54;Boa;Pequenas perdas identificadas
+19;Fazenda Santa Maria;127.31;IAC91-1099;93.01;17.08;122.36;New Holland CH7.70;3.67;Úmido;22/10/2025;9818.64;2022.46;247468.26;82.92;Crítica;Colheitadeira requer manutenção urgente
+20;Fazenda Santo Antônio;29.41;IACSP95-5000;93.51;2.89;139.81;Case IH A8800;6.0;Seco;21/08/2025;2670.65;79.48;11111.92;97.11;Ótima;Condições ideais de colheita
+21;Fazenda Santa Maria;49.07;SP80-3280;67.8;10.43;122.01;Case IH A4000;5.89;Seco;20/07/2025;2979.95;347.0;42337.53;89.57;Regular;Perdas acima do esperado, necessita atenção
+22;Fazenda União;16.93;IAC91-1099;81.85;3.41;122.51;Santal Tandem;4.94;Ensolarado;19/08/2025;1338.47;47.25;5788.97;96.59;Ótima;Condições ideais de colheita
+23;Fazenda União;148.02;SP80-3280;66.93;9.85;117.09;New Holland CH7.70;4.72;Nublado;13/10/2025;8931.14;975.84;114260.8;90.15;Regular;Recomenda-se manutenção da colheitadeira
+24;Fazenda São João;97.17;SP80-3280;61.37;13.75;128.08;John Deere 3520;3.53;Ensolarado;26/07/2025;5143.37;819.96;105020.08;86.25;Alta;Urgente ajuste nos parâmetros
+25;Fazenda Campo Verde;69.59;RB92579;76.54;4.0;127.32;Santal Tandem;6.32;Seco;25/07/2025;5113.36;213.06;27126.38;96.0;Ótima;Colheita com excelente desempenho
+26;Fazenda São José;104.22;RB92579;65.71;5.17;126.16;Case IH A4000;4.78;Ensolarado;23/09/2025;6494.24;354.06;44667.82;94.83;Boa;Desempenho satisfatório da colheita
+27;Fazenda Vista Alegre;35.77;IACSP95-5000;91.23;8.89;112.37;Case IH A8800;5.69;Garoa Leve;02/11/2025;2973.19;290.11;32599.34;91.11;Regular;Influência das condições climáticas: Garoa Leve
+28;Fazenda Nova Esperança;47.24;SP81-3250;94.13;12.83;128.07;New Holland CH7.70;6.46;Parcialmente Nublado;24/10/2025;3876.19;570.51;73065.44;87.17;Alta;Urgente ajuste nos parâmetros
+29;Fazenda Boa Vista;130.38;SP80-3280;79.04;2.8;139.22;John Deere 3520;5.25;Úmido;21/10/2025;10016.69;288.55;40171.46;97.2;Ótima;Condições ideais de colheita
+30;Fazenda Vista Alegre;132.13;IACSP95-5000;82.15;9.19;133.48;New Holland CH7.70;6.66;Garoa Leve;28/07/2025;9856.95;997.53;133149.86;90.81;Regular;Ajustes necessários na velocidade
+31;Fazenda Vista Alegre;139.6;RB867515;62.65;9.96;139.39;Valtra BH180;5.78;Garoa Leve;30/08/2025;7874.84;871.1;121422.02;90.04;Regular;Influência das condições climáticas: Garoa Leve
+32;Fazenda São João;52.28;IAC91-1099;64.57;2.58;136.35;Case IH A8800;6.45;Nublado;06/10/2025;3288.63;87.09;11875.21;97.42;Ótima;Colheita com excelente desempenho
+33;Fazenda Santo Antônio;56.29;SP80-3280;69.22;11.26;124.31;DMB G8000;6.44;Garoa Leve;07/10/2025;3457.66;438.73;54539.02;88.74;Regular;Perdas acima do esperado, necessita atenção
+34;Fazenda Santa Maria;79.54;RB867515;68.5;6.41;112.9;John Deere 3520;6.78;Garoa Leve;25/10/2025;5099.24;349.25;39430.12;93.59;Boa;Pequenas perdas identificadas
+35;Fazenda Nova Esperança;135.86;CTC20;87.78;9.58;136.02;Case IH A8800;4.02;Garoa Leve;13/10/2025;10783.3;1142.49;155401.59;90.42;Regular;Influência das condições climáticas: Garoa Leve
+36;Fazenda Nova Esperança;126.47;IAC91-1099;65.4;5.9;111.77;Case IH A8800;6.53;Nublado;13/10/2025;7783.14;488.0;54543.44;94.1;Boa;Desempenho satisfatório da colheita
+37;Fazenda União;59.75;CTC20;77.99;10.46;138.95;Valtra BH180;7.29;Ensolarado;29/08/2025;4172.48;487.43;67727.82;89.54;Regular;Influência das condições climáticas: Ensolarado
+38;Fazenda Santo Antônio;79.89;CTC9;67.99;10.18;111.68;John Deere 3520;4.05;Ensolarado;24/08/2025;4878.77;552.95;61753.37;89.82;Regular;Perdas acima do esperado, necessita atenção
+39;Fazenda Campo Verde;33.68;RB867515;89.31;11.72;111.82;New Holland CH7.70;3.98;Seco;11/08/2025;2655.43;352.53;39420.24;88.28;Regular;Perdas acima do esperado, necessita atenção
+40;Fazenda Vista Alegre;116.25;CTC9;82.29;6.66;120.3;DMB G8000;7.37;Nublado;06/09/2025;8929.1;637.11;76644.3;93.34;Boa;Pequenas perdas identificadas
+41;Fazenda Vista Alegre;17.89;CTC4;76.29;9.79;124.89;Santal Tandem;5.05;Ensolarado;09/09/2025;1231.21;133.62;16687.39;90.21;Regular;Ajustes necessários na velocidade
+42;Fazenda União;38.83;CTC20;90.73;4.13;127.36;John Deere 3520;4.37;Garoa Leve;13/08/2025;3377.54;145.5;18531.11;95.87;Ótima;Condições ideais de colheita
+43;Fazenda Nova Esperança;139.48;CTC4;84.58;9.1;127.77;Santal Tandem;3.99;Parcialmente Nublado;24/10/2025;10723.67;1073.55;137167.08;90.9;Regular;Influência das condições climáticas: Parcialmente Nublado
+44;Fazenda Boa Vista;22.13;RB867515;78.51;9.52;137.72;John Deere 3520;5.42;Ensolarado;03/11/2025;1572.02;165.4;22779.3;90.48;Regular;Perdas acima do esperado, necessita atenção
+45;Fazenda São José;123.83;IAC91-1099;82.86;15.03;115.91;John Deere CH570;6.98;Nublado;10/11/2025;8718.39;1542.16;178751.91;84.97;Crítica;Risco de prejuízo elevado
+46;Fazenda Boa Vista;79.38;SP80-3280;85.95;16.43;136.53;Case IH A8800;5.01;Úmido;27/10/2025;5701.74;1120.97;153046.23;83.57;Crítica;Perdas críticas - intervenção imediata necessária
+47;Fazenda Santo Antônio;71.21;RB867515;72.4;8.52;122.78;New Holland CH7.70;3.83;Ensolarado;04/08/2025;4716.35;439.26;53932.03;91.48;Regular;Ajustes necessários na velocidade
+48;Fazenda São José;91.11;CTC20;70.42;7.46;114.67;New Holland TC5070;4.66;Garoa Leve;03/11/2025;5937.34;478.63;54884.63;92.54;Boa;Bom aproveitamento da área
+49;Fazenda Nova Esperança;115.29;IACSP95-5000;67.36;14.28;119.52;New Holland CH7.70;4.84;Ensolarado;01/08/2025;6656.96;1108.98;132544.74;85.72;Alta;Perdas significativas detectadas
+50;Fazenda Santa Maria;113.99;CTC20;69.22;16.22;127.62;Valtra BH180;5.39;Seco;19/09/2025;6610.57;1279.82;163330.74;83.78;Crítica;Perdas críticas - intervenção imediata necessária
+51;Fazenda São João;34.47;RB966928;79.72;7.22;116.34;Case IH A8800;6.0;Seco;04/10/2025;2549.55;198.4;23082.07;92.78;Boa;Bom aproveitamento da área
+52;Fazenda Boa Vista;100.79;RB92579;74.2;10.12;110.61;DMB G8000;4.59;Nublado;02/11/2025;6721.78;756.84;83713.65;89.88;Regular;Recomenda-se manutenção da colheitadeira
+53;Fazenda Santa Maria;48.98;SP81-3250;81.81;15.26;130.6;Valtra BH180;5.21;Úmido;02/11/2025;3395.58;611.48;79858.82;84.74;Crítica;Risco de prejuízo elevado
+54;Fazenda Vista Alegre;10.49;IACSP95-5000;65.47;3.77;139.68;New Holland CH7.70;6.5;Nublado;24/07/2025;660.89;25.89;3616.54;96.23;Ótima;Perda mínima, processo otimizado
+55;Fazenda São João;90.65;RB966928;83.68;4.75;113.89;New Holland TC5070;6.93;Nublado;09/09/2025;7225.28;360.32;41036.35;95.25;Ótima;Operação dentro dos padrões ideais
+56;Fazenda Santo Antônio;112.41;IAC91-1099;60.18;8.42;111.03;DMB G8000;5.49;Garoa Leve;24/08/2025;6195.23;569.6;63242.58;91.58;Regular;Perdas acima do esperado, necessita atenção
+57;Fazenda Paraíso;89.08;SP81-3250;84.1;7.3;127.02;New Holland CH7.70;4.08;Garoa Leve;10/08/2025;6944.74;546.89;69465.82;92.7;Boa;Desempenho satisfatório da colheita
+58;Fazenda União;22.54;RB92579;87.76;13.9;116.53;New Holland CH7.70;4.06;Parcialmente Nublado;01/11/2025;1703.15;274.96;32040.78;86.1;Alta;Urgente ajuste nos parâmetros
+59;Fazenda Boa Vista;26.9;IACSP95-5000;83.96;11.32;133.48;Case IH A4000;4.27;Ensolarado;30/09/2025;2002.86;255.66;34126.15;88.68;Regular;Perdas acima do esperado, necessita atenção
+60;Fazenda Boa Vista;70.13;CTC4;87.18;11.48;123.84;John Deere CH570;6.35;Seco;11/08/2025;5412.05;701.88;86920.76;88.52;Regular;Recomenda-se manutenção da colheitadeira
+61;Fazenda Vista Alegre;131.89;SP81-3250;92.12;7.14;128.21;Case IH A4000;4.63;Ensolarado;27/10/2025;11282.22;867.49;111220.77;92.86;Boa;Pequenas perdas identificadas
+62;Fazenda Boa Vista;95.33;IAC91-1099;61.55;17.0;129.66;New Holland CH7.70;3.88;Seco;30/08/2025;4870.08;997.49;129333.96;83.0;Crítica;Colheitadeira requer manutenção urgente
+63;Fazenda Vista Alegre;15.76;RB966928;89.34;7.67;115.73;DMB G8000;4.93;Parcialmente Nublado;04/11/2025;1300.0;107.99;12498.09;92.33;Boa;Desempenho satisfatório da colheita
+64;Fazenda Santa Maria;42.72;CTC20;61.83;5.5;138.48;John Deere CH570;4.62;Garoa Leve;23/10/2025;2496.1;145.28;20117.79;94.5;Boa;Pequenas perdas identificadas
+65;Fazenda Campo Verde;78.83;RB867515;74.61;16.22;117.36;John Deere CH570;3.56;Parcialmente Nublado;20/10/2025;4927.53;953.98;111959.13;83.78;Crítica;Colheitadeira requer manutenção urgente
+66;Fazenda Vista Alegre;89.09;IACSP95-5000;78.51;17.62;132.73;John Deere 3520;5.25;Ensolarado;31/08/2025;5762.03;1232.42;163579.52;82.38;Crítica;Perdas críticas - intervenção imediata necessária
+67;Fazenda União;87.56;RB966928;74.27;5.86;113.87;Case IH A8800;6.64;Úmido;27/08/2025;6122.0;381.08;43393.64;94.14;Boa;Desempenho satisfatório da colheita
+68;Fazenda Santo Antônio;74.88;CTC9;68.85;5.43;110.82;Case IH A4000;4.89;Úmido;11/10/2025;4875.55;279.94;31023.28;94.57;Boa;Pequenas perdas identificadas
+69;Fazenda Paraíso;17.65;RB92579;72.05;6.68;116.47;New Holland TC5070;7.34;Ensolarado;23/09/2025;1186.73;84.95;9893.94;93.32;Boa;Pequenas perdas identificadas
+70;Fazenda Vista Alegre;106.85;SP80-3280;91.99;6.97;138.92;New Holland CH7.70;5.21;Ensolarado;09/10/2025;9144.04;685.09;95172.77;93.03;Boa;Processo dentro da normalidade
+71;Fazenda Campo Verde;85.99;IACSP95-5000;64.17;13.33;115.32;Case IH A8800;7.32;Nublado;25/10/2025;4782.43;735.55;84823.22;86.67;Alta;Perdas significativas detectadas
+72;Fazenda Santa Maria;71.06;SP81-3250;90.11;3.38;139.33;John Deere CH570;6.52;Seco;20/10/2025;6186.79;216.43;30155.01;96.62;Ótima;Colheita com excelente desempenho
+73;Fazenda União;53.42;SP80-3280;66.93;11.81;111.67;New Holland CH7.70;3.93;Nublado;06/11/2025;3153.15;422.25;47153.19;88.19;Regular;Perdas acima do esperado, necessita atenção
+74;Fazenda Santa Maria;75.6;CTC20;86.63;7.68;135.61;John Deere 3520;4.21;Nublado;23/09/2025;6046.25;502.98;68209.21;92.32;Boa;Processo dentro da normalidade
+75;Fazenda Santa Maria;13.63;CTC9;94.92;7.55;132.31;Santal Tandem;5.78;Seco;10/08/2025;1196.08;97.68;12923.89;92.45;Boa;Desempenho satisfatório da colheita
+76;Fazenda Santo Antônio;30.38;CTC9;65.2;10.3;117.37;New Holland TC5070;4.14;Nublado;12/11/2025;1776.76;204.02;23945.82;89.7;Regular;Recomenda-se manutenção da colheitadeira
+77;Fazenda Boa Vista;46.0;CTC9;69.34;6.89;138.31;John Deere 3520;7.21;Seco;05/10/2025;2969.87;219.77;30395.86;93.11;Boa;Bom aproveitamento da área
+78;Fazenda Santo Antônio;17.83;CTC9;73.38;4.28;128.76;Santal Tandem;3.58;Nublado;05/08/2025;1252.37;56.0;7210.31;95.72;Ótima;Operação dentro dos padrões ideais
+79;Fazenda São José;19.03;IACSP95-5000;90.62;8.41;129.15;Santal Tandem;6.67;Garoa Leve;17/10/2025;1579.47;145.03;18730.67;91.59;Regular;Influência das condições climáticas: Garoa Leve
+80;Fazenda Nova Esperança;28.33;RB92579;78.66;5.93;125.16;DMB G8000;4.16;Seco;09/08/2025;2096.29;132.15;16539.44;94.07;Boa;Pequenas perdas identificadas
+81;Fazenda Nova Esperança;129.14;CTC9;92.98;6.9;118.69;John Deere 3520;6.22;Nublado;30/07/2025;11178.92;828.51;98336.23;93.1;Boa;Bom aproveitamento da área
+82;Fazenda Boa Vista;49.34;CTC20;61.71;8.82;111.57;Case IH A8800;3.65;Nublado;26/10/2025;2776.22;268.55;29961.99;91.18;Regular;Recomenda-se manutenção da colheitadeira
+83;Fazenda Santa Maria;33.27;RB966928;94.77;13.57;122.62;DMB G8000;4.34;Parcialmente Nublado;31/10/2025;2725.14;427.86;52464.42;86.43;Alta;Urgente ajuste nos parâmetros
+84;Fazenda Santa Maria;11.22;SP81-3250;72.94;4.66;110.67;New Holland CH7.70;5.63;Parcialmente Nublado;29/10/2025;780.25;38.14;4220.6;95.34;Ótima;Condições ideais de colheita
+85;Fazenda Santo Antônio;111.67;CTC20;84.28;17.99;138.73;New Holland TC5070;7.13;Garoa Leve;21/09/2025;7718.41;1693.14;234888.95;82.01;Crítica;Condições climáticas adversas
+86;Fazenda Campo Verde;109.01;RB966928;85.63;8.76;126.98;John Deere 3520;6.47;Parcialmente Nublado;08/10/2025;8516.82;817.7;103832.12;91.24;Regular;Recomenda-se manutenção da colheitadeira
+87;Fazenda União;63.9;RB966928;67.17;8.88;139.25;John Deere 3520;5.48;Parcialmente Nublado;26/09/2025;3911.02;381.14;53074.31;91.12;Regular;Recomenda-se manutenção da colheitadeira
+88;Fazenda Nova Esperança;130.84;RB966928;81.7;16.16;130.28;Valtra BH180;3.86;Úmido;01/10/2025;8962.18;1727.44;225051.39;83.84;Crítica;Condições climáticas adversas
+89;Fazenda União;28.81;IAC91-1099;61.52;9.92;122.55;Case IH A4000;6.1;Nublado;14/09/2025;1596.57;175.82;21546.89;90.08;Regular;Ajustes necessários na velocidade
+90;Fazenda Campo Verde;25.49;CTC20;70.79;3.34;113.87;New Holland CH7.70;6.44;Nublado;03/09/2025;1744.17;60.27;6862.74;96.66;Ótima;Condições ideais de colheita
+91;Fazenda São José;110.6;RB966928;88.02;17.65;122.81;John Deere 3520;7.26;Parcialmente Nublado;01/11/2025;8016.78;1718.23;211015.78;82.35;Crítica;Perdas críticas - intervenção imediata necessária
+92;Fazenda Santa Maria;14.14;CTC9;70.31;7.02;139.84;John Deere CH570;7.44;Parcialmente Nublado;11/10/2025;924.39;69.79;9759.67;92.98;Boa;Desempenho satisfatório da colheita
+93;Fazenda Santo Antônio;133.84;CTC20;70.5;15.99;132.39;Case IH A4000;4.69;Garoa Leve;15/08/2025;7926.95;1508.77;199746.28;84.01;Crítica;Perdas críticas - intervenção imediata necessária
+94;Fazenda Santo Antônio;124.48;IACSP95-5000;69.82;17.85;116.57;Case IH A4000;5.39;Parcialmente Nublado;09/09/2025;7139.82;1551.38;180844.14;82.15;Crítica;Perdas críticas - intervenção imediata necessária
+95;Fazenda São José;113.67;IACSP95-5000;63.94;4.9;136.16;Case IH A8800;7.21;Ensolarado;12/10/2025;6911.92;356.13;48491.33;95.1;Ótima;Perda mínima, processo otimizado
+96;Fazenda Santo Antônio;66.2;CTC20;77.75;10.88;120.16;Case IH A8800;3.81;Nublado;29/10/2025;4587.05;560.0;67289.48;89.12;Regular;Recomenda-se manutenção da colheitadeira
+97;Fazenda Campo Verde;128.5;RB867515;63.66;13.36;114.35;Valtra BH180;5.36;Nublado;13/09/2025;7087.42;1092.89;124971.9;86.64;Alta;Velocidade inadequada para as condições
+98;Fazenda Boa Vista;15.68;RB867515;65.03;8.49;123.32;DMB G8000;6.51;Ensolarado;14/10/2025;933.1;86.57;10675.81;91.51;Regular;Recomenda-se manutenção da colheitadeira
+99;Fazenda São João;55.21;IAC91-1099;83.45;15.95;115.8;John Deere CH570;3.89;Nublado;22/08/2025;3872.41;734.86;85096.82;84.05;Crítica;Colheitadeira requer manutenção urgente
+100;Fazenda São João;98.93;CTC4;62.91;9.42;124.28;Case IH A8800;7.22;Parcialmente Nublado;29/10/2025;5637.42;586.27;72861.79;90.58;Regular;Perdas acima do esperado, necessita atenção
