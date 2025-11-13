@@ -250,22 +250,6 @@ ORDER BY MES;
 
 ---
 
-## 📸 Evidências (Screenshots)
-
-### 1. Conexão Estabelecida
-![Conexão Oracle](prints/01_conexao.png)
-
-### 2. Importação de Dados
-![Importação CSV](prints/02_importacao.png)
-
-### 3. Tabela Criada
-![Tabela Colheitas](prints/03_tabela_criada.png)
-
-### 4. Consultas Executadas
-![Consultas SQL](prints/04_consultas.png)
-
----
-
 ## 📈 Análise dos Resultados
 
 ### Principais Insights
@@ -340,9 +324,9 @@ ORDER BY MES;
 
 ## 🎬 Vídeo Demonstrativo
 
-🎥 **Link do YouTube:** [Em breve]
+🎥 **Link do YouTube:** [https://youtu.be/fbEy3JudnnY]
 
-**Duração:** 5 minutos  
+**Duração:** até 5 minutos  
 **Conteúdo:**
 - Conexão ao banco Oracle
 - Importação dos dados
