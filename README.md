@@ -31,17 +31,11 @@ Nesta atividade, exploramos conceitos iniciais de Banco de Dados, carregando os 
 ```
 Cap1/
 ├── README.md                    # Este arquivo
-├── fiap_desafio.docx           # Documento com instruções do desafio
 ├── setup_database.sql          # Script de criação do banco
 ├── colheitas_import.csv        # Dados para importação (100 registros)
 ├── colheitas_loader.ctl        # Arquivo controle SQL*Loader
 ├── queries_validacao.sql       # Consultas SQL de validação
 ├── README_IMPORTACAO.md        # Guia detalhado de importação
-└── prints/                     # Screenshots das etapas
-    ├── 01_conexao.png
-    ├── 02_importacao.png
-    ├── 03_tabela_criada.png
-    └── 04_consultas.png
 ```
 
 ---
